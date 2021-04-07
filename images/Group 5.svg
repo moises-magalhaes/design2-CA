@@ -1,0 +1,14 @@
+<svg id="Group_5" data-name="Group 5" xmlns="http://www.w3.org/2000/svg" width="247" height="130" viewBox="0 0 247 130">
+  <text id="antoin" transform="translate(113 54)" fill="#060606" font-size="38" font-family="SegoeUI-Italic, Segoe UI" font-style="italic" letter-spacing="0.05em"><tspan x="0" y="0">antoin</tspan></text>
+  <text id="ludovic" transform="translate(112 85)" fill="#060606" font-size="38" font-family="SegoeUI-Italic, Segoe UI" font-style="italic" letter-spacing="-0.012em"><tspan x="0" y="0">ludovic</tspan></text>
+  <text id="Interior_design" data-name="Interior design" transform="translate(114 101)" fill="#060606" font-size="16" font-family="SegoeUI-Italic, Segoe UI" font-style="italic" letter-spacing="0.06em"><tspan x="0" y="0">Interior design</tspan></text>
+  <line id="Line_3" data-name="Line 3" y2="88" transform="translate(104 21)" fill="none" stroke="#060606" stroke-width="3"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(-4 -3)">
+    <path id="Exclusion_1" data-name="Exclusion 1" d="M-155-100h-72v-72h72v24h-3v-21h-66v66h66v-21h3v24h0Z" transform="translate(251 204)" fill="#060606"/>
+    <g id="Group_2" data-name="Group 2">
+      <path id="Union_1" data-name="Union 1" d="M-207.475-132l-3.438-11.279h-10.779l1.577-4.721h7.763l-4.878-16-5.18,16H-227l8-24h3.647L-203-132Z" transform="translate(262 220)" fill="#060606"/>
+      <path id="Path_7" data-name="Path 7" d="M283,212l11.646,40H315l-1.534-4.585H297.527L286.857,212Z" transform="translate(-226 -164)" fill="#060606"/>
+    </g>
+  </g>
+  <rect id="Rectangle_7" data-name="Rectangle 7" width="247" height="130" fill="none"/>
+</svg>
